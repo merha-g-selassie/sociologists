@@ -6,9 +6,9 @@ Officia ut eu duis magna incididunt exercitation eu consectetur dolore commodo. 
 ### Data management
 
 #### Exploratory phase
-- [Problématique et questionnement](Problematique-Questionnement.md)
-- [Listes de sociologues](sociologists-list.md)
-- [Catalogue des informations](catalogue-des-informations.md)
+- [Problématique et questionnement](documentation/Problematique-Questionnement.md)
+- [Listes de sociologues](/documentation/sociologists-list.md)
+- [Catalogue des informations](documentation/catalogue-des-informations.md)
 
 #### Creation of the relational database
 - Modèle conceptuel
