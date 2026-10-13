@@ -48,14 +48,14 @@
 - description
 - inception
 
-### NotableWork (Oeuvres notables)
+### Notable Work (Oeuvres notables)
 - title
 - genre
 - authors
 - published_date
 - country_of_origin
 
-### Organisation (employer, educated_at, member of)
+### Organisation
 - inception (date création)
 - official name
 - short name
