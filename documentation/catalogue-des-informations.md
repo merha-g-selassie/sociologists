@@ -56,17 +56,17 @@
 - country_of_origin
 
 ### Organisation
-- inception (date création)
-- official name
 - short name
+- official name
+- organisation type
+- inception (date création)
 - field of work
 - funder
-- country
 - coordinate location
 - hq location
+- country
 - parent organisation
 - official website
-- organisation type
 
 ### Award (distinction reçue)
 - label
@@ -82,3 +82,6 @@
 - coordonnées
 - type
 - ...
+
+### Languages Spoken
+- label
