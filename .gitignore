@@ -1,8 +1,4 @@
 .DS_Store
-ids.md
-images/
-queries.md
-steps.md
 programme.md
 .env
 docker/graphdb/graphdb.license

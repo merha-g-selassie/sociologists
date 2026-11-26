@@ -1,4 +1,4 @@
-# Sociologues
+# Sociologists
 ## Table des matières
 
 ### Data management
