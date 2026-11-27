@@ -69,3 +69,10 @@ sociologue (`Q2306091`).
 - https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/documentation/wikidata/Wikidata-exploration.md
 - https://historian.digital/courses/lod-and-data-analysis/
 - https://historian.digital/tutorials/RDF_SPARQL/introduction-semantic-web-lod.html
+
+
+### Environnement Python, Jupyter
+Python version 3.14.4
+`conda create -n sociologists -c conda-forge python=3.14`
+`conda activate sociologists`
+`conda env update -f environment.yml`
