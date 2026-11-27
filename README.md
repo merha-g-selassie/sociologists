@@ -1,6 +1,6 @@
 # Sociologists
 
-## Projet
+### Projet
 
 Le but est d'apprendre et expérimenter les technologies du web sémantique et différentes méthodes d'analyse de données.
 
@@ -9,11 +9,11 @@ Le but est d'apprendre et expérimenter les technologies du web sémantique et d
 - [x] Fonctionnement des triplestore
 - [x] Installation de GraphDB en local pour tester l'extraction, l'importation et la visualitation de données RDF
 
-## Question de recherche
+### Question de recherche
 
 Comment la population de sociologue a-t-elle évolué dans le temps, l'espce et les institutions ?
 
-## Analyses envisagées
+### Analyses envisagées
 
 - Distribution des sociologues par décennie de naissance (P569)
 - Répartition géographique des sociologues, évent. par génération (P19)
@@ -21,7 +21,7 @@ Comment la population de sociologue a-t-elle évolué dans le temps, l'espce et 
 - Réseau sociologues et institutions (évent. date début/fin d'empmloi P580, P582) (P108)
 - Clustering..
 
-## Résultats des requêtes Wikidata
+### Résultats des requêtes Wikidata
 
 profession (`P106`)
 sociologue (`Q2306091`).
@@ -36,7 +36,7 @@ sociologue (`Q2306091`).
 
 [Lien vers les requêtes](documentation/queries/wikidata-queries.md)
 
-## Technologies
+### Technologies
 
 - SPARQL, WIKIDATA, RDF
 - Triplestore
@@ -45,7 +45,7 @@ sociologue (`Q2306091`).
 - Pandas
 - etc.
 
-## Prochaines étapes
+### Prochaines étapes
 
 - [ ] Récupérer les données RDF depuis Wikidata et DBpedia si besoin.
 - [ ] Importer et organiser les données dans un triplestore.
