@@ -13,7 +13,7 @@ Le but est d'apprendre et expérimenter les technologies du web sémantique et d
 
 Comment la population de sociologue a-t-elle évolué dans le temps, l'espce et les institutions ?
 
-### Analyses envisagées
+### Analyses envisagées
 
 - Distribution des sociologues par décennie de naissance (P569)
 - Répartition géographique des sociologues, évent. par génération (P19)
