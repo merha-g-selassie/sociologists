@@ -47,6 +47,7 @@ sociologue (`Q2306091`).
 
 ### Prochaines étapes
 
+- [ ] Mise en place du triplestore
 - [ ] Récupérer les données RDF depuis Wikidata et DBpedia si besoin.
 - [ ] Importer et organiser les données dans un triplestore.
 - [ ] Préparer l'environnement Python/Jupyter.
@@ -55,3 +56,14 @@ sociologue (`Q2306091`).
 - [ ] Explorer l'analyse de réseau et le clustering.
 
 **Livrable final** : un dépôt GitHub documentant la démarche, les technologies utilisées et les analyses exploratoires réalisées.
+
+### Liens utiles
+
+- https://allegrograph.cloud/signin
+- https://yasgui.matdata.eu/
+- https://lod4hss.org/guides/more-about-fair
+- https://elites-suisses.lod4hss.org/
+- https://yasgui.matdata.eu/
+- https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/documentation/wikidata/Wikidata-exploration.md
+- https://historian.digital/courses/lod-and-data-analysis/
+- https://historian.digital/tutorials/RDF_SPARQL/introduction-semantic-web-lod.html
