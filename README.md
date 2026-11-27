@@ -1,6 +1,6 @@
 # Sociologists
 
-### Projet
+### Projet
 
 Le but est d'apprendre et expérimenter les technologies du web sémantique et différentes méthodes d'analyse de données.
 
@@ -71,8 +71,14 @@ sociologue (`Q2306091`).
 - https://historian.digital/tutorials/RDF_SPARQL/introduction-semantic-web-lod.html
 
 
-### Environnement Python, Jupyter
-Python version 3.14.4
+### Environnement
+
+Python : 3.14.4
+
 `conda create -n sociologists -c conda-forge python=3.14`
 `conda activate sociologists`
 `conda env update -f environment.yml`
+
+### Local development
+Docker
+GraphDB
