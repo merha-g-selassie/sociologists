@@ -61,6 +61,8 @@ sociologue (`Q2306091`).
 
 - https://allegrograph.cloud/signin
 - https://yasgui.matdata.eu/
+- https://query.wikidata.org/
+- https://matgui.matdata.eu/
 - https://lod4hss.org/guides/more-about-fair
 - https://elites-suisses.lod4hss.org/
 - https://yasgui.matdata.eu/
