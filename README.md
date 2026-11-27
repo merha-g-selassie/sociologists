@@ -43,5 +43,15 @@ sociologue (`Q2306091`).
 - Python
 - Jupyter Notebook
 - Pandas
-- ...
+- etc.
 
+## Prochaines étapes
+
+- [ ] Récupérer les données RDF depuis Wikidata et DBpedia si besoin.
+- [ ] Importer et organiser les données dans un triplestore.
+- [ ] Préparer l'environnement Python/Jupyter.
+- [ ] Réaliser les distributions temporelles et spatiales.
+- [ ] Expérimenter les analyses bivariées.
+- [ ] Explorer l'analyse de réseau et le clustering.
+
+**Livrable final** : un dépôt GitHub documentant la démarche, les technologies utilisées et les analyses exploratoires réalisées.
