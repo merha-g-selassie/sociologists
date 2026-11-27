@@ -1,0 +1,20 @@
+services:
+  graphdb:
+    image: ontotext/graphdb:11.5.3
+    ports:
+      - "127.0.0.1:7200:7200"
+    volumes:
+      - graphdb-data:/opt/graphdb/home
+  graphdb-init:
+    image: curlimages/curl:8.16.0
+    entrypoint: ["/bin/sh", "/scripts/init-repository.sh"]
+    depends_on:
+      - graphdb
+    environment:
+      GRAPHDB_URL: http://graphdb:7200
+    volumes:
+      - ./docker/graphdb/init-repository.sh:/scripts/init-repository.sh:ro
+      - ./docker/graphdb/repository-config.ttl:/scripts/repository-config.ttl:ro
+    restart: "no"
+volumes:
+  graphdb-data:
