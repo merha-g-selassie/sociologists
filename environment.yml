@@ -8,3 +8,5 @@ dependencies:
   - python=3.14
   - jupyterlab
   - ipykernel
+  - pandas
+  - sparqlwrapper
